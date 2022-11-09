@@ -1,3 +1,11 @@
-.DS_Store
+# .gitignore file
+# includes all files and folders that should not be tracked by git (and thus ignored)
+# these files/folders will not be included in any of the things done through git
+# 
+# how to format files/folders to be ignored:	
+#	files: filename.ext
+# 	file types: *.ext
+# 	folders: foldername/
+
 *.log
 results/
