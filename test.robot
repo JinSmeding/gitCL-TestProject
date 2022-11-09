@@ -1,5 +1,6 @@
 *** settings ***
 Documentation  this is a test file created from the git bash
+Library  SeleniumLibrary
 
 
 *** Test Cases ***
