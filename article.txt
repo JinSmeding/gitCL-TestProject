@@ -10,7 +10,7 @@ Table of Contents
 Article Title
 
 1. Introduction
-text
+There is a whale that swims in the pacific ocean.
 
 2. Why this whale is the loneliest whale
 text
