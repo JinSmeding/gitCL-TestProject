@@ -1,6 +1,6 @@
-Title
-Author
-Date
+Title:	The loneliest whale
+Author:	David
+Date:	June 2021
 
 Table of Contents
 1. introduction
@@ -12,5 +12,8 @@ Article Title
 1. Introduction
 text
 
-Header
+2. Why this whale is the loneliest whale
+text
+
+3. Conclusion
 text
