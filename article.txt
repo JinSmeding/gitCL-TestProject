@@ -7,8 +7,9 @@ Table of Contents
 2. main point
 3. conclusion
 
+Article Title
 
-Header
+1. Introduction
 text
 
 Header
